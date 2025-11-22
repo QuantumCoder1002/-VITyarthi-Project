@@ -1,7 +1,8 @@
 # -VITyarthi-Project
-Title of the Project - Smart Attendance System 
-PROJECT OVERVIEW — SMART ATTENDANCE SYSTEM 
 
+Title of the Project -  SMART ATTENDANCE SYSTEM 
+
+PROJECT OVERVIEW —
 The Smart Attendance System is a simple but practical Python application designed to mark and manage student attendance digitally. It replaces traditional manual entry and offers a faster, more accurate, and organized method to maintain attendance records.
 
 The project is built using basic Python concepts and three essential modules:
